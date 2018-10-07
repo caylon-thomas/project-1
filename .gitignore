@@ -72,8 +72,6 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# API key
-api_keys.py
 
 # pyenv
 .python-version
