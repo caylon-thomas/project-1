@@ -1,14 +1,17 @@
 # Capital Bikeshare
 * https://www.capitalbikeshare.com/system-data
 
+* Mindy & Caylon code for merge and random sample
+
 * merge 10,000 random sample from system-data .csvs 
 * 2 years each (2010-2018)
   * Kwasi (2010-2012) --since 2010 & 2011 are small files
   * Caylon (2013-2014)
   * Mindy (2015-2016)
   * Sarah (2017-2018)
-      Push to Git by 10/8/2018
-  
+      Push to Git by 10/8/2018      
+  * Caylon will merge each datasets
+     * Push to Git
 
 
 
