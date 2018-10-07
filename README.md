@@ -9,9 +9,10 @@
   * Caylon (2013-2014)
   * Mindy (2015-2016)
   * Sarah (2017-2018)
-      Push to Git by 10/8/2018      
+      * Push to Git by 10/8/2018      
   * Caylon will merge each datasets
-     * Push to Git
+      * Push to Git
+  
 
 
 
