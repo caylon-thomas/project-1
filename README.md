@@ -3,6 +3,9 @@
 
 Project Title - BIKESHARE
 
+![image](https://user-images.githubusercontent.com/41865917/46908945-69615d80-cef8-11e8-98ec-c5659deca6ce.png)
+
+
 Team Members - Caylon Thomas, Melinda Wiley, Sarah Christensen, Kwasi Yeboah-Afihen
   •	Member types
   •	Decrease in membership
