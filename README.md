@@ -44,20 +44,18 @@ Rough Breakdown of Tasks
 •	Research the dataset to refine the rough outline
 
 
+Analysis of Capital Bikeshare
+Our core message: to see how Capital Bikeshare has grown over years – from 2010 to 2018-current
 
-Mindy
-To fully understand the dataset from https://www.capitalbikeshare.com/system-data, would like to plot out a couple of graphs to see the following: 
-•	Average trip duration, shortest trip, longest trip – stuff like that
-•	Day time peaks of usership. i.e. mornings, evenings
-•	Usership location. Would this be helpful for businesses? 
-•	Are certain bikes used more than other? 
-•	Breaking out member type. (Annual Member, 30-Day Member or Day Key Member) or a "casual" rider (Single Trip, 24-Hour Pass, 3-Day Pass or 5-Day Pass)
-
-Has bicycle related accidents in Washington DC increased with the introduction of bike share?
-Is there a trend? 
-Comparing dataset from http://opendata.dc.gov/datasets/crashes-in-dc and https://www.capitalbikeshare.com/system-data
-
-What is the probability of increased scooter/bicycle incidents vs a decrease of vehicle incidents. If the purpose of bike/scooter share is to provide an alternative to public transportation/personal vehicles there by decreasing congestion and pollution. 
-
+Questions:
+Member type – Casual & Member; usage over time
+Bike dock stations/ terminal build out - Addition and removal of docks between 2010-2018
+Are there peaks times (Years, Months, Times during the day)?
+Which terminals are used the most vs not used very often?
 Is there a noticeable decrease in bike share usership since the introduction of lime and byrd scooters? 
+
+Utilized datasets
+OpenData DC Gov – Capital Bike Share Locations
+Capital Bikeshare System Data
+
 
