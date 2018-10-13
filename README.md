@@ -13,17 +13,6 @@ Team Members - Caylon Thomas, Melinda Wiley, Sarah Christensen, Kwasi Yeboah-Afi
   •	Seasonal Usage
   •	Volume of riders
 
-Research Questions to Answer
-•	Each team member is creating two research questions before Wednesday night
-
-Data Sets to be Used
-•	https://www.capitalbikeshare.com/system-data
-•	https://www.citibikenyc.com/system-data 
-
-Rough Breakdown of Tasks 
-•	Research the dataset to refine the rough outline
-
-
 Analysis of Capital Bikeshare
 * Our core message: to see how Capital Bikeshare has grown over years – from 2010 to 2018-current
 
@@ -36,4 +25,6 @@ Questions:
 
 Utilized datasets
 * OpenData DC Gov – Capital Bike Share Locations
+    * http://opendata.dc.gov/datasets/capital-bike-share-locations/data
 * Capital Bikeshare System Data
+    •	https://www.capitalbikeshare.com/system-data
