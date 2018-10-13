@@ -1,5 +1,6 @@
 # Capital Bikeshare
 ## Outline
+
 Project Title - BIKESHARE
 
 Team Members - Caylon Thomas, Melinda Wiley, Sarah Christensen, Kwasi Yeboah-Afihen
